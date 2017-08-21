@@ -1,0 +1,9 @@
+A:\batchprocess\src\main\java\com\example\demo\common\PersonItemProcessor.java
+A:\batchprocess\src\main\java\com\example\demo\BatchProcessingApplication.java
+A:\batchprocess\src\main\java\com\example\demo\rest\in\RESTPersonJobConfig.java
+A:\batchprocess\src\main\java\com\example\demo\BatchProcessingApplicationTests.java
+A:\batchprocess\src\main\java\com\example\demo\person\PersonController.java
+A:\batchprocess\src\main\java\com\example\demo\person\Person.java
+A:\batchprocess\src\main\java\com\example\demo\rest\out\RESTPersonWriter.java
+A:\batchprocess\src\main\java\com\example\demo\rest\in\RESTPersonReader.java
+A:\batchprocess\src\main\java\com\example\demo\rest\in\RESTPersonJobLauncher.java
